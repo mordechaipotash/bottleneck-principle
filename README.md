@@ -46,6 +46,8 @@ Don't eliminate the bottleneck. Amplify through it.
 - [The SHELET Protocol](docs/02-shelet-protocol.md) - 4-phase compression framework
 - [The Autism-AI Connection](docs/03-autism-ai-connection.md) - Why neurodivergent minds are AI-native
 - [For Builders](docs/04-for-builders.md) - How to implement this
+- [Innovations & IP](docs/05-innovations.md) - Reusable patterns and frameworks
+- [Mordechainisms](docs/06-mordechainisms.md) - Core principles and signature quotes
 
 ---
 
