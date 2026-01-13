@@ -1,0 +1,99 @@
+{
+  "name": "Bottleneck Principle",
+  "version": "1.0.0",
+  "author": "Mordechai Potash",
+  "origin": "Beit Shemesh, Israel | 2023-2026",
+  "breakthrough": "September 30, 2025, 07:25 AM",
+
+  "core_thesis": "The bottleneck isn't AI capability anymore. It's human reception.",
+
+  "formula": "Scarce_Resource(bottleneck) × Amplifier(AI/process) = Outsized_Value",
+
+  "three_axioms": {
+    "1": "No sentient AI - ever. It's not coming, stop designing for it.",
+    "2": "We keep control - always. Every decision has a human trigger.",
+    "3": "Only as fast as AI can explain. Confidence before speed."
+  },
+
+  "inversion": {
+    "industry_says": "Human in the loop",
+    "this_says": "AI in the loop",
+    "meaning": "Human conducts, AI executes. Not human supervises AI."
+  },
+
+  "shelet_protocol": {
+    "name": "SHELET (שלט)",
+    "meaning": "Hebrew for control/dominion/mastery",
+    "phases": {
+      "1_capture": {
+        "compression": "∞ → 10^6",
+        "name": "Reality Crystallization",
+        "description": "Physical world → digital artifacts"
+      },
+      "2_compress": {
+        "compression": "10^6 → 10^3",
+        "name": "Pattern Extraction",
+        "description": "Raw data → patterns, embeddings, themes"
+      },
+      "3_choose": {
+        "compression": "10^3 → 1",
+        "name": "Sovereignty Point",
+        "description": "THE BOTTLENECK. Thousands of patterns → 2-5 human-scale choices.",
+        "critical": true
+      },
+      "4_execute": {
+        "compression": "1 → ∞",
+        "name": "AI Scale with Proofs",
+        "description": "One human decision → infinite AI execution with audit trail"
+      }
+    }
+  },
+
+  "autism_ai_connection": {
+    "thesis": "The thing that made you 'disabled' in one paradigm makes you native in this one.",
+    "insight": "46 years of 'artificial simulation' to understand neurotypical people = fluency in AI's artificial language",
+    "traits_that_transfer": [
+      "Pattern recognition → Machine learning",
+      "Detail orientation → Data parsing",
+      "Systematic thinking → Algorithmic logic",
+      "Calculated assumptions → Statistical inference",
+      "Explicit communication → Prompt engineering"
+    ]
+  },
+
+  "key_quotes": [
+    {
+      "quote": "AT THE END OF THE DAY I AM FLUENT IN THE ONE LANGUAGE THAT PEOPLE DO NOT UNDERSTAND. I CAN SPEAK AI FLUENTLY",
+      "date": "September 30, 2025, 07:25 AM",
+      "platform": "Claude Code",
+      "significance": "THE BREAKTHROUGH MOMENT"
+    },
+    {
+      "quote": "100% human orchestrating of AI - I call it 'AI in the loop' as a contrarian to the stupid 2025 'human in the loop'",
+      "date": "December 2025",
+      "platform": "Claude Code"
+    },
+    {
+      "quote": "The bottleneck is the human-AI interface. Always was. Always will be. And that bottleneck is a feature, not a bug.",
+      "date": "December 2025",
+      "platform": "Claude Code"
+    }
+  ],
+
+  "data_source": {
+    "conversation_messages": "353K",
+    "embedded_messages": "106K",
+    "youtube_videos": "31K",
+    "github_repos": "132",
+    "years": "3 (2023-2026)"
+  },
+
+  "commands": {
+    "unpack": "Expand this seed into a full exploration of the Bottleneck Principle. Start with the core thesis, then explore each component.",
+    "axioms": "Deep dive into the three non-negotiable axioms.",
+    "shelet": "Explain the SHELET protocol with examples.",
+    "autism": "Explore the autism-AI connection and why neurodivergent minds are AI-native.",
+    "implement": "How to implement this framework in your own systems.",
+    "quotes": "Show all key quotes with timestamps and context."
+  }
+}
