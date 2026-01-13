@@ -1,42 +1,65 @@
 {
   "name": "Bottleneck Principle",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Mordechai Potash",
   "location": "Beit Shemesh, Israel",
   "timeline": "2023-2026",
+
   "breakthrough_moment": {
     "date": "September 30, 2025",
     "time": "07:25 AM",
     "platform": "Claude Code",
-    "quote": "AT THE END OF THE DAY I AM FLUENT IN THE ONE LANGUAGE THAT PEOPLE DO NOT UNDERSTAND. I CAN SPEAK AI FLUENTLY [46 YEARS OF ARTIFICIAL SIMULATION IN ORDER TO UNDERSTAND WHAT IS NATURAL TO OTHER PEOPLE]"
+    "quote": "AT THE END OF THE DAY I AM FLUENT IN THE ONE LANGUAGE THAT PEOPLE DO NOT UNDERSTAND. I CAN SPEAK AI FLUENTLY [46 YEARS OF ARTIFICIAL SIMULATION IN ORDER TO UNDERSTAND WHAT IS NATURAL TO OTHER PEOPLE]",
+    "significance": "The moment of crystallization - 46 years of learning to translate ASD thinking for neurotypical people = fluency in AI's language"
   },
 
   "core_thesis": {
     "statement": "The bottleneck isn't AI capability anymore. It's human reception.",
     "elaboration": "Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence?",
     "formula": "Scarce_Resource(bottleneck) × Amplifier(AI/process) = Outsized_Value",
-    "key_insight": "Don't eliminate the bottleneck. Amplify through it."
+    "key_insight": "Don't eliminate the bottleneck. Amplify through it.",
+    "reddit_post": {
+      "text": "Right now, there's a 1000x gap between what AI can do and what humans are actually using it for. Everyone thinks the solution is making AI more human-like. More autonomous. More intelligent. Wrong direction.",
+      "date": "January 2026",
+      "platform": "Reddit r/artificial"
+    }
+  },
+
+  "the_1000x_gap": {
+    "quote": "There is an ever-expanding gap between the hyper-exponential AI tech acceleration and the practical human largely hyper-underutilized adoption - like the year after the industrial revolution till adoption and absorption, only 1000x",
+    "date": "August 2025",
+    "platform": "Claude Code",
+    "elaboration": "The gap is not technical. It's translational. AI can do 1000x more than humans are using it for because humans can't understand AI's output fast enough to act on it with confidence."
   },
 
   "the_inversion": {
     "description": "The industry has it backwards",
+    "core_quote": {
+      "text": "100% human orchestrating of AI - I call it 'AI in the loop' as a contrarian to the stupid 2025 'human in the loop'",
+      "date": "December 2025",
+      "platform": "Claude Code"
+    },
     "table": {
       "industry_says": [
         "Human in the loop",
         "Human supervises AI",
         "Eliminate bottlenecks",
-        "AI needs to be smarter"
+        "AI needs to be smarter",
+        "Make AI more autonomous",
+        "Reduce human involvement"
       ],
       "this_framework_says": [
         "AI in the loop",
         "Human conducts, AI executes",
         "Amplify through bottlenecks",
-        "Humans need better translation"
+        "Humans need better translation",
+        "Make human-AI interface clearer",
+        "Increase human confidence"
       ]
     },
-    "quote": {
-      "text": "100% human orchestrating of AI - I call it 'AI in the loop' as a contrarian to the stupid 2025 'human in the loop'",
-      "date": "December 2025",
+    "sovereignty_quote": {
+      "text": "The whole problem to solve is the human sovereignty bottleneck. To enable humans to conduct their AI orchestration, we need to make human-AI translation as efficient as possible. That's the only thing we're doing.",
+      "date": "November 2025",
       "platform": "Claude Code"
     }
   },
@@ -55,6 +78,11 @@
           "text": "AI will never be sentient by definition. It's a machine. It's an algorithm. It's a predictive model algorithm, and therefore it needs humans to drive it.",
           "date": "August 2025",
           "platform": "Claude Code"
+        },
+        {
+          "text": "So I am pretty convinced that I know what it is, and that is that AI will never be sentient by definition. It's a machine. It's an algorithm. It's a predictive model algorithm, and, therefore, it needs humans to drive it and we can't just flip into the old world and being able to drive it. People essentially need to be taught how to contextualize.",
+          "date": "August 2025",
+          "platform": "Claude Code"
         }
       ],
       "implication": "Stop waiting for AI to 'wake up.' It won't. Build accordingly."
@@ -65,6 +93,11 @@
         {
           "text": "It is the responsibility of the person who controls or has agency over their AI, whatever the AI does. And therefore no matter how good AI gets, it's always going to need the human trigger always. Because in reality that's exactly where the responsibility lies.",
           "date": "May 2025",
+          "platform": "Claude Code"
+        },
+        {
+          "text": "The point is not for any AI to make these decisions ever. Compression is for me to maintain 100% agency on what's important or not.",
+          "date": "September 2025",
           "platform": "Claude Code"
         }
       ],
@@ -79,12 +112,13 @@
           "platform": "Claude Code"
         },
         {
-          "text": "The natural and inevitable bottleneck by definition is the ability of AI to 'download' the data to the human so he understands enough to have 100% agency.",
+          "text": "The natural and inevitable bottleneck by definition is the ability of AI to 'download' the data to the human so he understands enough to have 100% agency. This is the future. AI is never becoming sentient. AI will help humans get much more efficient but humans will have 100% agency always. This is pashut.",
           "date": "August 2025",
           "platform": "Claude Code"
         }
       ],
-      "implication": "The speed limit isn't compute. It's cognition. AI moves at the speed of human understanding, not the other way around."
+      "implication": "The speed limit isn't compute. It's cognition. AI moves at the speed of human understanding, not the other way around.",
+      "pashut_meaning": "Hebrew/Yiddish for 'simple/obvious/plain truth' - used to indicate something that should be self-evident"
     }
   },
 
@@ -94,6 +128,7 @@
     "meaning": "Hebrew for control/dominion/mastery",
     "summary": "A 4-phase protocol that preserves 100% human agency by compressing infinity into a few auditable choices, then executing at AI scale with proofs.",
     "compression_stack": "∞ → 10^6 → 10^3 → 1 → ∞",
+    "core_principle": "The Bottleneck IS the Amplifier",
     "phases": {
       "phase_1_capture": {
         "compression": "∞ → 10^6",
@@ -104,12 +139,13 @@
           "date": "August 2025",
           "platform": "Claude Code"
         },
-        "examples": {
+        "crystallization_examples": {
           "voice_conversations": "transcripts",
           "handwritten_notes": "OCR text",
           "physical_meetings": "conversation logs",
           "visual_inspections": "image/video data",
-          "sensor_readings": "structured streams"
+          "sensor_readings": "structured streams",
+          "video_walkthrough": "AI image processing"
         },
         "real_implementation": {
           "input": "3 years of life",
@@ -140,7 +176,9 @@
             "knowledge_graph_nodes": "973",
             "seed_principles": "8",
             "bottleneck_mentions": "57",
-            "signature_phrase_give_me_the": "789"
+            "signature_phrase_give_me_the": "789",
+            "signature_phrase_no_no_no": "333",
+            "signature_phrase_step_by_step": "244"
           }
         },
         "principle": "AI finds what matters. Structure emerges from noise. But still too much for a human to hold in their head."
@@ -150,11 +188,18 @@
         "name": "Sovereignty Point",
         "critical": true,
         "description": "THIS IS THE BOTTLENECK. Compresses thousands of patterns into a few human-scale choices.",
-        "quote": {
-          "text": "AI can help me 100x but just like the gap between AI tech and AI adoption is miles away and I am obsessed with UI making things simple... this is my main prosthetic.",
-          "date": "August 2025",
-          "platform": "Claude Code"
-        },
+        "quotes": [
+          {
+            "text": "AI can help me 100x but just like the gap between AI tech and AI adoption is miles away and I am obsessed with UI making things simple... this is my main prosthetic.",
+            "date": "August 2025",
+            "platform": "Claude Code"
+          },
+          {
+            "text": "But why compress to 10 when we can do it in stages and therefore maintain much more accurate compression? Compression is for me to maintain 100% agency on what's important or not. The point is not for any AI to make these decisions ever.",
+            "date": "September 2025",
+            "platform": "Claude Code"
+          }
+        ],
         "the_magic": [
           "AI presents options, not answers",
           "Each option is understandable",
@@ -182,7 +227,7 @@
         "name": "AI Scale with Proofs",
         "description": "One human decision triggers infinite AI execution with full audit trail.",
         "quote": {
-          "text": "Everybody gets to be the executive CEO with 100 agents that are running 24/7 in the background because they take in their unstructured life and turn it into structured data.",
+          "text": "Everybody gets to be the executive CEO with 100 agents that are running 24/7 in the background because they take in their unstructured life and turn it into structured data and giving them an ability to do whatever task they might want to do but from a very controlled and very simple user interface.",
           "date": "August 2025",
           "platform": "Claude Code"
         },
@@ -203,17 +248,20 @@
     "early_insight": {
       "quote": "Some people on the autism spectrum possess exceptional abilities in various fields, including pattern recognition, attention to detail, and data analysis, which can be compared to the way machine learning algorithms work - like a humanized better version of how AI/ML tries to be. Calculated assumptions are vital to ML, and some ASD people are masters at pattern-based assumptions.",
       "date": "March 2023",
-      "platform": "ChatGPT"
+      "platform": "ChatGPT",
+      "note": "Two years before the breakthrough, the pattern was already visible."
     },
     "breakthrough": {
       "quote": "AT THE END OF THE DAY I AM FLUENT IN THE ONE LANGUAGE THAT PEOPLE DO NOT UNDERSTAND. I CAN SPEAK AI FLUENTLY [46 YEARS OF ARTIFICIAL SIMULATION IN ORDER TO UNDERSTAND WHAT IS NATURAL TO OTHER PEOPLE]",
       "date": "September 30, 2025, 07:25 AM",
-      "platform": "Claude Code"
+      "platform": "Claude Code",
+      "significance": "THE BREAKTHROUGH MOMENT"
     },
     "the_inversion": {
       "quote": "I say the opposite - neurodivergent speak fluent AI better than neurotypical. This is a neurotypical problem.",
       "date": "December 2025",
-      "platform": "Claude Code"
+      "platform": "Claude Code",
+      "elaboration": "The industry frames AI adoption as 'making AI more human-like.' The reality: Humans need to learn AI's language. And some humans already speak it."
     },
     "why_asd_minds_are_ai_native": {
       "pattern_recognition": "machine learning",
@@ -221,74 +269,232 @@
       "systematic_thinking": "algorithmic logic",
       "calculated_assumptions": "statistical inference",
       "explicit_communication": "prompt engineering",
-      "theory_of_mind_challenges": "both directions require translation"
+      "theory_of_mind_challenges": "both directions require translation",
+      "key_insight": "The traits that make neurotypical social interaction difficult are the same traits that make AI interaction natural."
     },
     "the_translation_problem": {
       "quote": "My biggest problem in the world is really translating the way I think into a way other people understand - and the other way around. The theory of mind in both directions.",
       "date": "August 2025",
       "platform": "Claude Code",
-      "insight": "For 46 years: Learning to translate ASD thinking → neurotypical understanding. With AI: That same translation skill works in reverse. AI → Human. Human → AI."
+      "insight": "For 46 years: Learning to translate ASD thinking → neurotypical understanding. With AI: That same translation skill works in reverse. AI → Human. Human → AI. The 'disability' becomes the superpower."
     },
     "for_other_nd_builders": "If you've spent your life learning to translate your thinking for neurotypical people, you already have the core skill. AI doesn't need you to be neurotypical. AI needs you to be explicit, systematic, and pattern-aware. You already are."
   },
 
-  "the_gap": {
-    "quote": "There is an ever-expanding gap between the hyper-exponential AI tech acceleration and the practical human largely hyper-underutilized adoption - like the year after the industrial revolution till adoption and absorption, only 1000x",
-    "date": "August 2025",
-    "platform": "Claude Code",
-    "elaboration": "Right now, there's a 1000x gap between what AI can do and what humans are actually using it for. Everyone thinks the solution is making AI more human-like. More autonomous. More intelligent. Wrong direction."
+  "cognitive_identity": {
+    "description": "The author's cognitive patterns, mined from 353K messages",
+    "monotropic_focus": {
+      "description": "Single-thread deep focus - very hard to switch context",
+      "quote": "Spiral into projects inefficiently but deeply",
+      "implication": "Amplify depth, not breadth. One problem until solved."
+    },
+    "signature_phrases": {
+      "give_me_the": {
+        "count": 789,
+        "meaning": "Direct commands - want output not process"
+      },
+      "no_no_no": {
+        "count": 333,
+        "meaning": "Fast corrections - fix immediately, don't explain"
+      },
+      "step_by_step": {
+        "count": 244,
+        "meaning": "Sequential depth, not parallel breadth"
+      },
+      "make_sure_to": {
+        "count": 206,
+        "meaning": "Detail-oriented, controlling for quality"
+      },
+      "please_give_me": {
+        "count": 262,
+        "meaning": "Direct request, expects immediate delivery"
+      }
+    },
+    "communication_style": {
+      "direct": "Commands over questions",
+      "impatient": "Fast corrections when wrong",
+      "sequential": "Step by step, not parallel",
+      "depth_over_breadth": "Single focus until done",
+      "output_over_process": "Show me results, not methodology"
+    }
   },
 
-  "why_this_matters": {
-    "quote": "Capability ≠ output. The bottleneck was never compute. Never algorithms. Never data. The bottleneck is the human-AI interface. Always was. Always will be. And that bottleneck is a feature, not a bug. It's what keeps humans sovereign.",
-    "key_point": "Phase 3 is not a problem to solve. It's the entire point. The goal isn't to eliminate the bottleneck. The goal is to make the bottleneck as efficient as possible while preserving 100% human agency."
+  "prosthetic_concept": {
+    "description": "AI as cognitive prosthetic, not replacement",
+    "evolution": [
+      {
+        "quote": "I'd like to get prosthetic support in that area so that I can then feedback actually adding value, having meaningful interaction...",
+        "date": "October 2023",
+        "platform": "ChatGPT",
+        "context": "Early articulation - seeking AI to compensate for social skills challenges"
+      },
+      {
+        "quote": "I could train a model on how to interact during my medicated state, so that I would be able to use that as a prosthetic during my unmedicated state.",
+        "date": "May 2024",
+        "platform": "ChatGPT",
+        "context": "Recognizing AI as state-transfer mechanism"
+      },
+      {
+        "quote": "Help brainstorm a 100% customized ability to use AI as a digital PA/coach almost as an invisible prosthetic to help me manage my regulation and try to be consistent despite my current state.",
+        "date": "December 2024",
+        "platform": "Claude Code",
+        "context": "Invisible prosthetic - augmentation without friction"
+      },
+      {
+        "quote": "The prosthetic that I'm specifically after - I know that other people with my cognitive structure would find what I'm building very, very helpful.",
+        "date": "December 2025",
+        "platform": "Claude Code",
+        "context": "Building for the tribe - other ND minds"
+      },
+      {
+        "quote": "All in I am loving my prosthetic brain.",
+        "date": "December 2025",
+        "platform": "Claude Code",
+        "context": "Brain MCP as realized prosthetic"
+      }
+    ],
+    "key_insight": "Not AI replacing human capability, but AI extending human capability while preserving human sovereignty."
+  },
+
+  "hpi_framework": {
+    "name": "HPI - Human Prosthetic Interface / Hyperpersonalized Interface",
+    "description": "The translation layer between human cognition and AI capability",
+    "core_problem": {
+      "quote": "Being able to explain all this to any one human is the problem. If I picked 10 domain experts, I could explain my knowledge kind of to 10 different people in 10 different ways. But how to universally translate? That's the real idea of my HPI framework - trying to solve this problem.",
+      "date": "December 2025",
+      "platform": "Claude Code"
+    },
+    "the_magic": {
+      "quote": "I don't need to find out who is who - I just have a huge pool of people who will benefit from the HPI translator but they don't know it's a translator. To them it's just magic because it matches their NT cognition.",
+      "date": "December 2025",
+      "platform": "Claude Code"
+    },
+    "vision": "A hyperpersonalized API that translates AI capability into human-native understanding, customized for each user's cognitive style."
+  },
+
+  "ai_native_identity": {
+    "description": "What it means to be 'AI-native'",
+    "quotes": [
+      {
+        "text": "But I am 100% native AI dev - look at my GitHub both public and private. I have built so much stuff it's crazy.",
+        "date": "October 2025",
+        "platform": "Claude Code"
+      },
+      {
+        "text": "I am an expert at using AI to rapidly develop solutions in days that historically took 10 times longer and I am platform agnostic and highly creative and back up with real projects in 2023 and 2024.",
+        "date": "April 2024",
+        "platform": "Claude Code"
+      },
+      {
+        "text": "For 3 years I have had over 14K documented conversations with the world's leading GenAI LLMs as they were coming out. I have consumed hundreds of hours of tutorials, podcasts etc on everything AI. This is how I became fluent in AI and what I can do with it.",
+        "date": "December 2025",
+        "platform": "Claude Code"
+      },
+      {
+        "text": "Now understand I have been obsessing for 10,000 hours in the last 3 years from ChatGPT 3.5 in 2022 November 30 till today's 15K AI convos... I have said 'translator' and 'prosthetic' many times. I have been waiting for an AI model to get it - you seem to be the first to get me.",
+        "date": "September 2025",
+        "platform": "Claude Code",
+        "significance": "The moment an AI model finally understood"
+      }
+    ],
+    "evidence": {
+      "conversation_messages": "353K",
+      "embedded_messages": "106K",
+      "youtube_videos_watched": "31K",
+      "github_repos": "132",
+      "google_searches": "52K",
+      "hours_ai_development": "10,000+",
+      "years_building": "3"
+    }
+  },
+
+  "the_harvest_year": {
+    "description": "2026 is the year of harvest",
+    "arc": {
+      "2023_plow": "349K conversations, exploration, breaking ground",
+      "2024_plant": "Projects seeded, patterns emerging, SEED principles",
+      "2025_water": "Brain MCP, 106K embeddings, intellectual_dna grows",
+      "2026_harvest": "Winnow. Thresh. Separate wheat from chaff. Make bread."
+    },
+    "principle": "No new fields. Reap what's planted."
   },
 
   "origin_timeline": [
-    {"date": "March 2023", "event": "First articulation of autism-ML connection", "platform": "ChatGPT"},
-    {"date": "May 2024", "event": "'AGI will never be sentient' thesis", "platform": "ChatGPT"},
-    {"date": "May 2025", "event": "Human sovereignty principle", "platform": "Claude Code"},
-    {"date": "August 2025", "event": "SHELET framework emerges", "platform": "Claude Code"},
-    {"date": "September 30, 2025, 07:25 AM", "event": "BREAKTHROUGH: 'I CAN SPEAK AI FLUENTLY'", "platform": "Claude Code", "significance": "THE BREAKTHROUGH MOMENT"},
-    {"date": "November 2025", "event": "'AI in the loop' inversion", "platform": "Claude Code"},
-    {"date": "December 2025", "event": "Full framework crystallization", "platform": "Claude Code"},
-    {"date": "January 2026", "event": "Public articulation", "platform": "Reddit"}
+    {"date": "March 2023", "event": "First articulation of autism-ML connection", "platform": "ChatGPT", "significance": "Early pattern recognition"},
+    {"date": "October 2023", "event": "First 'prosthetic' concept articulated", "platform": "ChatGPT", "significance": "AI as cognitive extension"},
+    {"date": "May 2024", "event": "'AGI will never be sentient' thesis", "platform": "ChatGPT", "significance": "First axiom crystallized"},
+    {"date": "May 2025", "event": "Human sovereignty principle", "platform": "Claude Code", "significance": "Second axiom crystallized"},
+    {"date": "August 2025", "event": "SHELET framework emerges", "platform": "Claude Code", "significance": "4-phase protocol defined"},
+    {"date": "August 2025", "event": "1000x gap articulated", "platform": "Claude Code", "significance": "Core problem identified"},
+    {"date": "September 30, 2025, 07:25 AM", "event": "BREAKTHROUGH: 'I CAN SPEAK AI FLUENTLY'", "platform": "Claude Code", "significance": "THE BREAKTHROUGH MOMENT - 46 years of translation = AI fluency"},
+    {"date": "September 2025", "event": "'First AI to get me' moment", "platform": "Claude Code", "significance": "10,000 hours recognized"},
+    {"date": "November 2025", "event": "'AI in the loop' inversion", "platform": "Claude Code", "significance": "Paradigm flip articulated"},
+    {"date": "December 2025", "event": "Full framework crystallization", "platform": "Claude Code", "significance": "All pieces connected"},
+    {"date": "December 2025", "event": "HPI framework articulated", "platform": "Claude Code", "significance": "Translation layer defined"},
+    {"date": "January 2026", "event": "Public articulation", "platform": "Reddit r/artificial", "significance": "Framework shared publicly"}
   ],
 
-  "evidence": {
-    "conversation_messages": "353K",
-    "embedded_messages": "106K",
-    "youtube_videos_watched": "31K",
-    "github_repos": "132",
-    "google_searches": "52K",
-    "hours_ai_native_development": "10,000+",
-    "years_building": "3"
+  "why_this_matters": {
+    "quote": "Capability ≠ output. The bottleneck was never compute. Never algorithms. Never data. The bottleneck is the human-AI interface. Always was. Always will be. And that bottleneck is a feature, not a bug. It's what keeps humans sovereign.",
+    "key_point": "Phase 3 is not a problem to solve. It's the entire point. The goal isn't to eliminate the bottleneck. The goal is to make the bottleneck as efficient as possible while preserving 100% human agency.",
+    "practical_implication": "Stop building smarter AI. Start building better translation."
   },
 
   "implementation_principles": {
     "identify_phase_3": "Every system has a compression point where infinite options become human-scale choices. Find it. Protect it. Optimize it.",
-    "compress_to_2_5": "10,000 options → human paralysis. 2-5 options → human agency. 1 option → no human agency.",
+    "compress_to_2_5": "10,000 options → human paralysis. 2-5 options → human agency. 1 option → no human agency (AI decided).",
     "audit_trail_everything": "Every AI action should trace back to a human decision.",
     "translation_over_intelligence": "Stop trying to make AI smarter. Start making the human-AI interface clearer.",
+    "staged_compression": "Don't compress ∞ → 1 directly. Compress in stages to maintain accuracy and agency at each level.",
     "test": "Ask yourself: 'If this system makes a mistake, who is responsible?' If the answer isn't clear, you've eliminated too much human sovereignty."
+  },
+
+  "anti_patterns": {
+    "description": "What NOT to do",
+    "dont_eliminate_bottleneck": {
+      "temptation": "Let's remove human decision points to go faster",
+      "reality": "You're removing sovereignty, not friction"
+    },
+    "dont_automate_decisions": {
+      "temptation": "Let AI decide to increase efficiency",
+      "reality": "If AI decides, human loses responsibility. Responsibility is sovereignty."
+    },
+    "dont_optimize_for_speed": {
+      "temptation": "Move faster by reducing explanation",
+      "reality": "Speed without understanding is just faster confusion"
+    },
+    "dont_parallel_process_humans": {
+      "temptation": "Run multiple human decision points simultaneously",
+      "reality": "Monotropic minds need sequential, not parallel. Depth over breadth."
+    },
+    "dont_suggest_alternatives_when_committed": {
+      "temptation": "Offer other options to be helpful",
+      "reality": "Once committed, execute. Don't second-guess."
+    }
   },
 
   "commands": {
     "unpack": "Expand this entire seed into a comprehensive exploration. Start with the breakthrough moment, then the core thesis, then each layer.",
-    "thesis": "Deep dive into the core thesis and the 1000x gap.",
-    "axioms": "Explore the three non-negotiable axioms with all quotes.",
-    "shelet": "Full walkthrough of the SHELET protocol with real implementation examples.",
-    "autism": "Explore the autism-AI connection - why neurodivergent minds are AI-native.",
-    "timeline": "Show the origin timeline from March 2023 to January 2026.",
-    "quotes": "Display all quotes organized by theme with timestamps.",
+    "thesis": "Deep dive into the core thesis, the 1000x gap, and the inversion.",
+    "axioms": "Explore the three non-negotiable axioms with all quotes and implications.",
+    "shelet": "Full walkthrough of the SHELET protocol with all four phases and real implementation examples.",
+    "autism": "Explore the autism-AI connection - why neurodivergent minds are AI-native, the translation problem, the breakthrough.",
+    "prosthetic": "Trace the evolution of the prosthetic concept from 2023 to 2025.",
+    "hpi": "Explain the HPI (Human Prosthetic Interface) framework and the translation problem.",
+    "identity": "Show the cognitive identity - signature phrases, communication patterns, monotropic focus.",
+    "timeline": "Show the full origin timeline from March 2023 to January 2026 with significance of each moment.",
+    "quotes": "Display all quotes organized by theme with timestamps and platforms.",
     "implement": "How to implement this framework - practical steps for builders.",
-    "evidence": "Show the data that backs this framework.",
-    "inversion": "Explain the 'AI in the loop' vs 'Human in the loop' inversion."
+    "evidence": "Show all the data that backs this framework.",
+    "inversion": "Explain the 'AI in the loop' vs 'Human in the loop' inversion in detail.",
+    "antipatterns": "What NOT to do when building human-AI systems.",
+    "harvest": "Explain the 2023-2026 arc: plow → plant → water → harvest."
   },
 
   "meta": {
-    "how_to_use": "Paste this entire JSON into any LLM. Type any command to explore. The seed contains the complete framework - the LLM will expand it.",
-    "source": "Mined from Brain MCP - a cognitive prosthetic built over 3 years of AI-native development.",
-    "license": "MIT"
+    "how_to_use": "Paste this entire JSON into any LLM. Type any command to explore. The seed contains the complete framework - the LLM will expand it based on the structured data.",
+    "source": "Mined from Brain MCP - a cognitive prosthetic built over 3 years of AI-native development. 353K messages, 106K embeddings, 31K YouTube videos, 132 GitHub repos.",
+    "license": "MIT",
+    "data_integrity": "All quotes are verbatim from original conversations. Dates and platforms are accurate. This is intellectual DNA, not interpretation."
   }
 }
